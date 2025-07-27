@@ -1,10 +1,10 @@
-# 📱 Android RecyclerView App
+# Android RecyclerView App
 
 This is a basic Android project written in **Kotlin**, aimed at demonstrating how to use `RecyclerView` and its main components. Ideal for beginners learning native Android development.
 
 ---
 
-## 🚀 Technologies and Concepts Used
+## Technologies and Concepts Used
 
 ### 1. RecyclerView
 A powerful component that displays **lists or grids** of items efficiently.  
@@ -20,7 +20,7 @@ It can load images from the `drawable` folder or from the internet (using librar
 
 ---
 
-## 🧱 Layout Types
+## Layout Types
 
 ### LinearLayout
 Arranges elements **in a single row or column** (horizontal or vertical).  
@@ -34,7 +34,7 @@ For example: place a button to the right of an image.
 
 ---
 
-## 📏 Layout Size Properties
+## Layout Size Properties
 
 ### match_parent
 The view will **expand to fill all available space** from its parent.
@@ -44,7 +44,7 @@ The view will **shrink to fit only its content**.
 
 ---
 
-## 🧩 List Architecture
+## List Architecture
 
 ### Item (Model)
 Represents the data of a list item.  
