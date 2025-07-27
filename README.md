@@ -271,15 +271,6 @@ holder.itemView.setOnClickListener {
 
 ---
 
-## Requirements
-
-- Android Studio Arctic Fox or newer
-- Kotlin support
-- Minimum SDK 21 (Android 5.0)
-- Gradle & Build tools updated
-
----
-
 ## Questions?
 
 Feel free to open an issue or contribute to this educational project.
