@@ -90,13 +90,13 @@ holder.imageView.setImageResource(item.image)
 
 ---
 
-### RelativeLayout *(Not used in this project)*
+### RelativeLayout
+Allows placing one view relative to another (e.g., below or to the right of another view).
 
-> Allows placing one view **relative to another** (ex: below or to the right of another view).
+#### Where It’s Used:
+This project uses RelativeLayout in the layout file item_view.xml to position the TextView elements (name, email) relative to the ImageView.
 
-- **Why skip it?** This project uses `LinearLayout` and `ConstraintLayout` is preferred in modern apps.
-
----
+- **Why i use it:** RelativeLayout simplifies positioning UI components without nesting multiple layouts, reducing hierarchy depth. It was used here to align the name and email to the right of the profile image efficiently.
 
 ## Layout Size Properties
 
